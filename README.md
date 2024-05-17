@@ -1,2 +1,1 @@
-# JapanaseV2
- 
+Japanase Website
