@@ -1,17 +1,18 @@
 <template>
   <Navbar />
+  <Home />
 </template>
 
 <script>
 import { ref } from 'vue';
-import CustomButton from './components/Button.vue';
 import Navbar from './components/Navbar.vue';
+import Home from './components/Home.vue';
 
 export default {
   name: 'App',
   components: {
-    CustomButton,
     Navbar,
+    Home,
   },
   setup() {
     return {};
