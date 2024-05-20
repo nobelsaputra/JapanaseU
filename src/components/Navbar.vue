@@ -7,7 +7,7 @@
         <!-- Mengubah -->
         <a href="#" class="text-black hover:text-cyan-600 duration-500 px-3 py-2">Home</a>
         <a href="#" class="text-black hover:text-cyan-600 duration-500 px-3 py-2">About</a>
-        <a href="#" class="text-black hover:text-cyan-600 duration-500 px-3 py-2">Services</a>
+        <a href="#" class="text-black hover:text-cyan-600 duration-500 px-3 py-2">Destination</a>
         <a href="#" class="text-black hover:text-cyan-600 duration-500 px-3 py-2">Contact</a>
       </div>
       <div class="md:hidden">
