@@ -6,6 +6,7 @@ export default {
       colors: {
         primary: '#14b8a6',
         blacky: '#070F2B',
+        primaryHov: '#119a8e',
       },
     },
   },

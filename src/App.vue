@@ -6,9 +6,11 @@
 
 <script>
 import { ref } from 'vue';
-import Navbar from './components/Navbar.vue';
-import Home from './components/Home.vue';
-import About from './components/About.vue';
+import Navbar from './components/content/Navbar.vue';
+import Home from './components/content/Home.vue';
+import About from './components/content/About.vue';
+import dom from './components/dom/dom.vue';
+
 
 export default {
   name: 'App',
@@ -16,6 +18,8 @@ export default {
     Navbar,
     Home,
     About,
+    dom,
+
   },
   setup() {
     return {};

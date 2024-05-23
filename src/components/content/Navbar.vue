@@ -9,6 +9,7 @@
         <a href="#" class="text-black hover:text-cyan-600 duration-500 px-3 py-2">About</a>
         <a href="#" class="text-black hover:text-cyan-600 duration-500 px-3 py-2">Destination</a>
         <a href="#" class="text-black hover:text-cyan-600 duration-500 px-3 py-2">Contact</a>
+        <a href="#" class="text-black hover:text-cyan-600 duration-500 px-3 py-2">{{ dark }}</a>
       </div>
       <div class="md:hidden">
         <button @click="toggleMenu" class="text-black focus:outline-none">
