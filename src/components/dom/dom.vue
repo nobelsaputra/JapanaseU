@@ -4,7 +4,7 @@
       <slot>{{ buttonText }}</slot></buttonKu
     >
     <p v-if="isVisible" class="text-justify mt-4 mb-4">
-      Japan is a country that seamlessly blends the traditional with the modern, offering visitors a unique and unforgettable experience. and the best of the best country, with good people
+      Japan (日本, Nippon or Nihon) is an island country in East Asia, located at the western edge of the Pacific Ocean. It consists of 6,852 islands, with the four largest being Honshu, Hokkaido, Kyushu,
     </p>
     <buttonKu v-if="isVisible" class="text-xl px-3 me-2"><i class="fa-brands fa-instagram"></i></buttonKu>
     <buttonKu v-if="isVisible" class="text-xl px-3 me-2"><i class="fa-brands fa-facebook"></i></buttonKu>
