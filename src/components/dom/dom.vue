@@ -25,7 +25,7 @@ export default {
   },
   computed: {
     buttonText() {
-      return this.isVisible ? 'Less Information' : 'More Information';
+      return this.isVisible ? 'Information' : ' Information';
     },
   },
   methods: {

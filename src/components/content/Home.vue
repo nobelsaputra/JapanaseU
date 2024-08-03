@@ -3,7 +3,7 @@
     <div class="flex flex-wrap md:flex-nowrap items-center">
       <div class="w-full md:w-1/2 p-6">
         <h1 class="lg:text-4xl text-xl font-bold text-gray-800 mb-2">Welcome to <span class="text-primary">JapaneseU</span></h1>
-        <p class="text-md text-gray-600 mb-6">If you like japan, you on the right side !</p>
+        <p class="text-md text-gray-600 mb-6">If you like japan or just a weebs, you on the right side !</p>
         <dom></dom>
       </div>
       <div class="w-full md:w-1/2 p-6 flex justify-center">
